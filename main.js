@@ -102,7 +102,10 @@ B1: Input
 - nhập giá trị 3 cạnh của tam giác
 B2:Handle
 - tạo biến canhA, canhB, canhC
-- 
+- xét trường hợp: nếu có 2 cạnh bằng nhau là tam giác cân
+- Nếu 3 cạnh bằng nhau là tam giác đều
+- Nếu bình phương 1 cạnh = tổng bình phương 2 cạnh còn lại là tam giác vuông
+- Khác các trường hợp trên là tam giác thường
 B3: Output
 - Xuất ra tên dạng hình tam giác 
 */
